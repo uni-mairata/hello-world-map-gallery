@@ -86,6 +86,11 @@ footer p {
   font-weight: bold;
 }
 
+.section-title {
+  background-color: var(--light-steel-blue);
+  color: var(--indigo-dye);
+}
+
 #footer-text {
   font-size: 18px;
   text-align: center;
